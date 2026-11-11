@@ -1,0 +1,12 @@
+#  ID   Nivel  Clase    Escenario
+1  E1   16     Crítico  Corte prolongado de energía eléctrica
+2  E2   15     Crítico  Lluvias intensas e inundación por El Niño costero
+3  E3   15     Crítico  Ransomware sobre servidores y respaldos
+4  E5   15     Crítico  Brecha o fuga de datos personales
+5  E4   12     Alto     Falla del sistema de climatización del centro de datos
+6  E7   10     Alto     Sismo de gran magnitud
+7  E6   9      Medio    Caída del proveedor de nube o del enlace de internet
+8  E8   6      Medio    Indisponibilidad de personal clave
+
+Resumen por clase: {'Crítico': 4, 'Alto': 2, 'Medio': 2}
+Escenarios sin ODS o norma: ninguno
